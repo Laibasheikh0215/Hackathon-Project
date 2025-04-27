@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+#regi-btn{
+    background-color: #4caf4f;
+    color:white;
+    width: 150px;
+    font-size: 20px;
+}
+
+#reg-btn{
+    background-color: #4caf4f;
+    color:white;
+    margin-left: 0px;
+    width: 150px;
+    font-size: 20px;
+}
+
+@media (min-width: 768px) {
+    #reg-btn {
+      margin-left: 40px; /* optional: small space on larger screens */
+    }
+  }
+#nav-links{
+    margin-right: 25px ;
+}
+
+.text-content {
+    text-align: left;
+}
+.main-heading1{
+    color: #263238;
+    font-size: 50px;
+}
+
+.sub-heading1{
+    color:#4caf4f;
+    font-size: 40px;
+}
+
+.main-content{
+    color: #4d4d4d;
+}
+
+#card{
+    margin-left: 90px;
+    margin-right: 90px;
+   border: none;
+}
+#rifiki-img{
+    width:100%;
+}
+#rifiki-body{
+    margin-top: 100px;
+}
+ 
+#rifiki-title{
+    font-size: 30px;
+}
+
+#pana-img{
+    width:100%;
+}
+#pana-body{
+    margin-top: 100px;
+}
+ 
+#pana-title{
+    font-size: 30px;
+}
+.explore-btn{
+    color:white;
+    background-color: #4caf4f;
+    width: 150px;
+}
+
+#learn-btn{
+    background-color: #4caf4f;
+    color:white;
+    margin-left: 0px;
+    width: 150px;
+    font-size: 20px;
+}
+
+#tim-text{
+    color:#4caf4f;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#btn-green {
+    background-color: #4caf4f;
+    color: white;
+  }
+
+  .custom-card {
+    position: relative;
+    margin: 15px;
+    
+  }
+
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    
+    
+  }
+
+  /* Add padding to 1st and 2nd card */
+  .card-padding-right {
+    padding-right: 15px;
+    
+  }
+
+
+  /* footer */
+  footer{
+    background-color: #263238;
+    padding-left: 30px;
+}
+
+#footer-heading{
+    color: white;
+    font-weight: 700;
+}
+
+#footer-content{
+    color: white;
+    text-decoration: none;
+}
+
+#sub-button{
+    background-color: #263238;
+    border: 1px solid white;
+    color: white;
+}
+#footer-links{
+    text-decoration: none;
+    color: white;
+}
