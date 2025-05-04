@@ -3,6 +3,10 @@
     padding:0px;
 }
 
+.container{
+    margin-top: 30px;
+}
+
 #regi-btn{
     background-color: #4caf4f;
     color:white;
@@ -44,11 +48,11 @@
     color: #4d4d4d;
 }
 
-#card{
-    margin-left: 90px;
-    margin-right: 90px;
-   border: none;
+#card {
+  margin-top: 30px;
+  border: none;
 }
+
 #rifiki-img{
     width:100%;
 }
@@ -58,6 +62,10 @@
  
 #rifiki-title{
     font-size: 30px;
+}
+
+#cardtwo{
+  border: none;
 }
 
 #pana-img{
